@@ -49,5 +49,5 @@ The MAIN loop:
 scheduler.asyncoreLoop(timeout=0.01)
 ```
 Here two important things. 
-First - We unfortunately have to use custom asyncore.loop()
-Second - timeout have to  be not a big 
++  First - We unfortunately have to use custom asyncore.loop()
++  Second - timeout have to  be not a big 
