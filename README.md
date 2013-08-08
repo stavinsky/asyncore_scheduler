@@ -13,7 +13,7 @@ This is a two  python classes, used to run some functions with asyncore with del
 Task
 ----
 
-Task describes what function we need to run, how often and whan start. 
+Task describes what function we need to run, how often and when start. 
 
 
 Scheduler
