@@ -13,7 +13,7 @@ This is a two  python classes, used to run some functions with asyncore with del
 Task
 ----
 
-Task describes what function we need to run, how often and whan start. 
+Task describes what function we need to run, how often and when start. 
 
 
 Scheduler
@@ -49,5 +49,5 @@ The MAIN loop:
 scheduler.asyncoreLoop(timeout=0.01)
 ```
 Here two important things. 
-First - We unfortunately have to use custom asyncore.loop()
-Second - timeout have to  be not a big 
++  First - We unfortunately have to use custom asyncore.loop()
++  Second - timeout have to  be not a big 
