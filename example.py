@@ -1,7 +1,9 @@
+#!/usr/bin/python
 import asyncore_scheduler
 import asyncore
 import socket
 import time
+
 
 
 class Handler(asyncore.dispatcher_with_send):
